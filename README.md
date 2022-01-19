@@ -87,5 +87,6 @@ This will start a local server on port 3000 which will run the app in developmen
 - Reduce the final javascript bundle size
 - Add more configuration options
 - Add support for Strike sandbox environments
+- Provide a hosted version
 - Wrap it up in a wordpress plugin
 - ...etc
