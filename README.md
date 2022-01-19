@@ -9,6 +9,16 @@
 - [Development](#development)
 - [Suggested Improvements](#suggested-improvements)
 
+
+**WARNING: This is a proof of concept and is designed to be embedded directly in client side code. Please ensure that the
+Strike API key you use allows for limited access only.**
+
+**REQUIRED API SCOPES:**
+- `partner.invoice.quote.generate`
+- `partner.invoice.read`
+- `partner.invoice.create-for-receiver`
+- `partner.account.profile.read`
+
 ## Usage
 
 1. Load the javascript into you html page
